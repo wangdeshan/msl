@@ -1,0 +1,14 @@
+{
+    "name": "Project-TZ",
+    "version": "1.0.0",
+    "dependencies": {
+        "axios": "0.21.1",
+        "ip": "2.0.0",
+        "socks": "1.1.10",
+        "spinnies": "0.5.1",
+        "ws": "6.1.4"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
